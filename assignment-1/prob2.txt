@@ -1,0 +1,1 @@
+Given a few paragraphs in a file, read the file and count how many words are there.
