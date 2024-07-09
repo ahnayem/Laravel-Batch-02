@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Abu Hasan Nayem",
+        "email": "nayem.csevu@gmail.com",
+        "password": "$2y$10$T0faTES8rL5JevzF4nrrpOXt\/Qoee8carDqEDolccblPTbOlfN5ce",
+        "shorten_code": "kHwph4m"
+    },
+    {
+        "name": "John Doe",
+        "email": "jd@example.com",
+        "password": "$2y$10$OAZlmH24\/TUvBKpTlvW8r.sEwtdkYGVmB66WhgHXKJQm1yT4EHwYK",
+        "shorten_code": "K0Hqi8V"
+    }
+]
